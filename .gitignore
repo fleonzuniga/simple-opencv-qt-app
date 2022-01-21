@@ -41,3 +41,7 @@ _deps
 
 ./build
 [Bb][Uu][Ii][Ll][Dd]
+
+Doxyfile
+html/
+latex/
